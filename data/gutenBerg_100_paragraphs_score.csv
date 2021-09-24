@@ -1,100 +1,101 @@
 Book_title,Score
-Pride and Prejudice,-0.18636759736466285
-Frankenstein,0.5466812865740782
-Alice s Adventures in Wonderland,-0.3999122934848433
-Beowulf: An Anglo-Saxon Epic Poem,-1.582312372672468
-The Adventures of Sherlock Holmes,-1.4947883522001209
-Moby Dick; Or the Whale,-0.8357365717831875
-The Scarlet Letter,-0.09846725636103226
-The Prince,-0.3650274633116554
-The Yellow Wallpaper,-1.0358678892570607
-The Picture of Dorian Gray,-1.4354862489650118
-Metamorphosis,0.19311193792276576
-A Tale of Two Cities,-1.658510926837545
-The Great Gatsby,-1.0708409009261228
-A Doll's House,-0.8356910473519241
-Dracula,-0.08182777591363782
-A Modest Proposal,-0.8356910473519241
-The Strange Case Of Dr. Jekyll And Mr. Hyde,-1.0277587478271868
-Walden,-1.414163493206329
-Grimms Fairy Tales,0.015114992637912744
-The Iliad of Homer,-0.9674602487631405
-Jane Eyre,-0.40413036101030125
-Anthem,-1.1853630161431004
-A Christmas Carol,-0.9280880989647997
-The Republic,0.12836914623677007
-The Adventures of Tom Sawyer,-1.0083931616865016
-The Adventures of Tom Sawyer,-1.0083931616865016
-The Odyssey,-0.021808778544388424
-Heart of Darkness,-1.2199137072105422
-The Souls of Black Folk,-0.3932791155213874
-The Happy Prince,-0.22052631705276138
-Narrative of the Life of Frederick Douglass,-0.8936860779917668
-Crime and Punishment,-0.9859258500491721
-War and Peace,-0.4110716499255177
-Adventures of Huckleberry Finn,-1.0444558999196436
-Narrative of the Captivity and Restoration Of Mrs. Mary Rowlandson,-0.2640460620215618
-The Wonderful Wizard of Oz,-1.5570417201648228
-Great Expectations,-1.4294366418330862
-The Importance of Being Earnest,-1.582312372672468
-Little Women,-0.4077690380927706
-The Awakening and Selected Short Stories,-1.658510926837545
-Peter Pan,-0.09974824993600301
-Ulysses,-1.1076541744948993
-Leviathan,-0.4989671265770356
-Anne of Green Gables,-0.45826993044107794
-The Prophet by Kahlil Gibran,-1.582312372672468
-Second Treatise Of Government By John Locke. ,-1.0267205237351404
-The Count of Monte Cristo,-1.4226235466620865
-A Study in Scarlet.,-1.582312372672468
-Autobiography of Benjamin Franklin. ,0.09983568443136936
-Dubliners,-0.5390497425253269
-"The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, The African",-1.0209221307306553
-The Hound of the Baskervilles,-0.9438066615173293
-Don Quixote,-1.048412142036235
-The American Diary of a Japanese Girl,-0.8935036033513732
-The War of the Worlds,-1.2503873674886
-Wuthering Heights,0.3127702462104441
-Old Granny Fox,-1.0943371169464746
-Treasure Island,-0.9016737021254895
-The Legend of Sleepy Hollow,-1.1460925422792159
-The Time Machine,-0.6730536865990806
-The Romance of Lust,-1.245018935493712
-Uncle Tom's Cabin,-0.814142412117475
-The Call of the Wild,-1.0594476422531622
-Emma,-0.40288914132996684
-Oliver Twist,-1.5241554458305917
-Les Mis rables,-1.5461841694063596
-The Jungle Book,-0.4615557940743776
-Gulliver s Travels,-0.6332638078088813
-The Kama Sutra of Vatsyayana,-1.213323118250244
-The Problems of Philosophy,-1.8196379217351701
-Candide,0.3254431173961986
-Essays of Michel de Montaigne,-0.8544809391602886
-Siddhartha,-1.8899180884440654
-The History of the Peloponnesian War,-0.9593791253042654
-The Secret Garden,-0.5064299398201313
-Ethan Frome,0.5775438471819367
-Songs of Innocence and Songs of Experience,-1.260504129603052
-"The Philippine Islands, 1493 1898: explorations by early navigators, descriptions of the islands and their peoples, their history and records of the catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century, Volume XXXIII, 1519 1522",-0.20985851196735708
-The Brothers Karamazov by Fyodor Dostoyevsky,-1.0612977416296914
-Common Sense,-1.6207247186494502
-David Copperfield,-0.282223064628111
-A Pickle for the Knowing Ones,-0.09060290890858569
-"Dante's Divine Comedy, Complete",-1.582312372672468
-Around the World in Eighty Days,-1.306371561250365
-Carmilla,-1.582312372672468
-The Slang Dictionary,-1.582312372672468
-Notes from the Underground,-0.985194387651908
-"The Works of Edgar Allan Poe, Volume 2",-1.1460925422792159
-The Confessions of Saint Augustine,0.5969335373398357
-"The Extraordinary Adventures of Ars ne Lupin, Gentleman-burglar",-0.9052448517732614
-Thus Spake Zarathustra,-0.39775370697773715
-Beyond Good and Evil,-1.4368221287814078
-Anna Karenina,-1.5737240964929866
-The Jungle,-0.7827836506184156
-The Mysterious Affair at Styles,-0.683669127177555
-Sense and Sensibility,-0.9262653217280998
-The Life and Adventures of Robinson Crusoe,-0.4902779310822941
-The Entire Original Maupassant Short Stories,-2.353261501897705
-The King James Bible,-1.582312372672468
+pride and prejudice,-1.027018313557021
+frankenstein,-1.1031480411850545
+alice s adventures in wonderland,-1.1862333888417682
+beowulf: an anglo-saxon epic poem,-1.582312372672468
+the scarlet letter,0.12134862922906892
+the adventures of sherlock holmes,-0.3106854475092818
+moby dick; or the whale,0.09998851618208615
+the yellow wallpaper,-0.7161968467448265
+the prince,-0.8557052267953227
+the picture of dorian gray,-0.8935036033513732
+metamorphosis,-0.9301812394740412
+a tale of two cities,-1.062694717788863
+a doll's house,-0.9726885214308616
+the great gatsby,-0.005413197222982349
+a modest proposal,-0.6898607428356021
+dracula,-1.297184981571328
+the strange case of dr. jekyll and mr. hyde,-0.14527257049635445
+anthem,-0.5674355471269794
+walden,-0.6058376647849297
+grimms fairy tales,-1.4364437857192678
+jane eyre,-1.439216373488005
+the iliad of homer,-0.5031619180607941
+a christmas carol,-0.8033118426684882
+the republic,0.47560205510623393
+the odyssey,-0.21916217756741058
+the odyssey,-0.21916217756741063
+the souls of black folk,-1.0641699732706262
+heart of darkness,-1.04660891931425
+the adventures of tom sawyer,-2.5111520536396426
+narrative of the life of frederick douglass,-0.6581021413888501
+narrative of the captivity and restoration of mrs. mary rowlandson,-0.126408154621366
+the happy prince,-1.1111728123636948
+crime and punishment,-1.2417949176386838
+the importance of being earnest,-1.0323135678298134
+adventures of huckleberry finn,-1.0862363507345607
+the awakening and selected short stories,-1.062694717788863
+great expectations,-0.09649919518775131
+war and peace,-1.00304799374336
+the wonderful wizard of oz,-1.4631117984503186
+leviathan,1.2135472978750785
+second treatise of government by john locke. ,-1.1356670050931124
+little women,-0.847981377548219
+peter pan,-2.15149360350904
+anne of green gables,-0.6583512967096923
+ulysses,-1.713339563056976
+"the interesting narrative of the life of olaudah equiano, or gustavus vassa, the african",-0.6324400160365411
+autobiography of benjamin franklin. ,-1.3057084941985084
+dubliners,-1.0760023645675063
+old granny fox,-1.0509713378899104
+the prophet by kahlil gibran,-1.582312372672468
+the count of monte cristo,-0.858021608405034
+the hound of the baskervilles,-1.184124757496442
+don quixote,-1.0497968128599369
+the legend of sleepy hollow,-1.0093692637040066
+wuthering heights,-1.6114437766791991
+the american diary of a japanese girl,-1.0760023645675063
+the war of the worlds,-0.2821899059176163
+a study in scarlet.,-1.0323135678298134
+treasure island,-0.5834720122445947
+uncle tom's cabin,-1.094202068033246
+the time machine,-1.3078325588957809
+the romance of lust,-1.1620367654000296
+the call of the wild,-1.7580469814795532
+oliver twist,-0.471262244983728
+the jungle book,-0.31682217704423266
+"the philippine islands, 1493 1898: explorations by early navigators, descriptions of the islands and their peoples, their history and records of the catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with european nations to the close of the nineteenth century, volume xxxiii, 1519 1522",-0.9330548343672722
+common sense,0.19673140384278337
+les mis rables,-1.8602669500415008
+candide,-1.839989800536756
+essays of michel de montaigne,-1.651728666426453
+gulliver s travels,-0.937566540871323
+emma,-0.09748040224796078
+a pickle for the knowing ones,0.3517435244114269
+the secret garden,-1.4656347566194954
+songs of innocence and songs of experience,-0.4623456003439285
+the history of the peloponnesian war,-0.8314405723031213
+siddhartha,-0.9886490796259797
+the problems of philosophy,-1.296025210836647
+ethan frome,-1.4865686207739497
+the kama sutra of vatsyayana,-0.7659348905384058
+the brothers karamazov by fyodor dostoyevsky,-1.4638231525575383
+carmilla,-1.582312372672468
+"the works of edgar allan poe, volume 2",-1.0093692637040066
+david copperfield,-1.0540131728986792
+"dante's divine comedy, complete",-1.582312372672468
+the jungle,-0.41786875248423727
+the slang dictionary,-1.582312372672468
+notes from the underground,-1.3257052741118582
+incidents in the life of a slave girl,-1.7580469814795532
+thus spake zarathustra,-1.0439825507453835
+the confessions of saint augustine,-1.2950636461449654
+the life and adventures of robinson crusoe,-0.732217603140018
+around the world in eighty days,-1.306371561250365
+beyond good and evil,-0.8787580029181885
+anna karenina,-1.9738300431307376
+"the extraordinary adventures of ars ne lupin, gentleman-burglar",-1.5511874159016221
+the entire original maupassant short stories,-1.7140653954544103
+sense and sensibility,-0.5392668620971
+the mysterious affair at styles,-0.9239112659077768
+pygmalion,-0.6466677043558915
